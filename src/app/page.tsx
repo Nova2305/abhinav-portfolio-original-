@@ -9,12 +9,16 @@ import Skills from "@/components/Skills";
 import Education from "@/components/Education";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import MouseRat from "@/components/MouseRat";
+
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#f5f7f2] text-zinc-950">
-      <Navbar />
 
+      <MouseRat />
+
+      <Navbar />
       <Hero />
       <About />
       <AIEngineering />
@@ -25,7 +29,7 @@ export default function Home() {
       <Education />
       <Contact />
       <Footer />
+
     </main>
   );
 }
-

@@ -5,10 +5,9 @@ export const profile = {
 
   phone: "+91 8057617624",
 
-  github: "https://github.com/abhinav0523",
+  github: "https://github.com/Nova2305",
 
-  linkedin:
-    "https://www.linkedin.com/in/abhinav-singh-thakur-276873311",
+  linkedin: "https://www.linkedin.com/in/abhinav-singh-thakur-276873311",
 
   resume: "/resume.pdf",
 
